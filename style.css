@@ -89,7 +89,7 @@ html, body {
     height: 80px;
     background: none;
     border: 2px solid orange;
-    top: 34%;
+    top: 25%;
     left: 78%;
     z-index: -1;
     transform: rotate(30deg);
